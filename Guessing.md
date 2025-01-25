@@ -1,3 +1,5 @@
+# Number Button Game
+## Hit the button and guess what the random number is!
 ```mermaid
 flowchart TD
 Start([ RNG Button Pressed])-->Ops([Value is generated])
