@@ -1,5 +1,6 @@
 # Number Button Game
 ## Hit the button and guess what the random number is!
+## This game is pretty simple! Press the RNG ( Random Number Generated) button to have the system pick a number and, you the player will guess between the values 1-10 since the system can't exceed that value. You get one try to guess the number no matter the results you will have to press the button again to retry. Any number taken in exceeding the value 10 however will be deemed as an error and will still give you the option to guess the same try.
 ```mermaid
 flowchart TD
 Start([ RNG Button Pressed])-->Ops([Value is generated])
